@@ -1,0 +1,1 @@
+Guess My Number Game is a fun and interactive web application where users try to guess a randomly generated number within a given range. Built with HTML, CSS, and JavaScript, the game features a simple and responsive user interface. Players can input their guesses, receive feedback on whether their guess is too high or too low, and track their score and attempts.
